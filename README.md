@@ -2,7 +2,7 @@
 
 ![nodejs](https://img.shields.io/badge/-nodejs-555555.svg) ![serverless](http://public.serverless.com/badges/v3.svg)
 
-This recipe uses Cognito User Pool Groups to grant different permissions to different groups of users for specific GraphQL operations.
+This recipe uses Cognito User Pool Groups to grant permissions to groups of users for GraphQL operations.
 
 More info: https://coderecipe.ai/architectures/65992102
 
